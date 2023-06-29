@@ -1,6 +1,6 @@
 Hello and welcome to my GitHub page! 
 
-My name is Lukas and I'm a data analyst from Turing College. I'm passionate about finding insights, telling stories and solving problems with data.
+My name is Lukas and I'm a Data Analyst from Turing College. I'm passionate about finding insights, telling stories and solving problems with data.
 
 In this page, you can find some of the projects that I have done or contributed to, showcasing my skills and interests in data analysis. You can also check out my [LinkedIn profile](https://www.linkedin.com/in/lukas-jablonskas-85688464/) for more details about me and my work.
 
