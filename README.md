@@ -10,6 +10,8 @@ In this page, you can find some of the projects that I have done or contributed 
 
 •  Cohort analysis: Cohort analysis is a technique that groups customers into cohorts based on a common characteristic or event (such as signup date, first purchase date, etc.) and tracks their behavior over time. Cohort analysis can help understand how different cohorts differ in terms of retention, churn, revenue, etc. and identify factors that influence customer behavior.
 
+• RFM analysis is a technique that segments customers based on three metrics: recency, frequency, and monetary value. Recency measures how recently a customer made a purchase, frequency measures how often a customer made a purchase, and monetary value measures how much a customer spent. By assigning scores to each metric and combining them, RFM analysis can rank customers into different segments, such as loyal, high-value, at-risk, etc. RFM analysis can help optimize marketing campaigns, increase customer loyalty, and improve customer lifetime value.
+
 ## Skills & tools
 
 SQL, Looker, PowerBI, Excel, R, PowerPoint
