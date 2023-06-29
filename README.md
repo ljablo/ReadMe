@@ -10,6 +10,10 @@ In this page, you can find some of the projects that I have done or contributed 
 
 •  Cohort analysis: Cohort analysis is a technique that groups customers into cohorts based on a common characteristic or event (such as signup date, first purchase date, etc.) and tracks their behavior over time. Cohort analysis can help understand how different cohorts differ in terms of retention, churn, revenue, etc. and identify factors that influence customer behavior.
 
+## Skills & tools
+
+SQL, Looker, PowerBI, Excel, R, PowerPoint
+
 ## Contact
 
 If you have any questions, feedback or suggestions, feel free to contact me at lukas.jablonskas1@gmail.com. I'm always open to new opportunities and collaborations. Thank you for visiting my page and have a great day!
